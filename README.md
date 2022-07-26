@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello world
+
+Hello, I'm Paul Wu, a backend engineer. Dedicated to being a full-stack engineer.
+
+### My Note Processing
+
+Loading : □□□□□□□□□■ 5%
+
+* [Elastic Stack](https://mobetaxforfun.github.io/BookELK/)
 
 <!--
 **MobeTaxforfun/MobeTaxforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
