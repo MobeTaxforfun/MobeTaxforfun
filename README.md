@@ -1,8 +1,8 @@
-### Hello world
+### :wave: Hello world
 
 Hello, I'm Paul Wu, a backend engineer. Dedicated to being a full-stack engineer.
 
-### My Note Processing
+### :blue_book: My Note Processing
 
 Loading : □□□□□□□□□■ 5%
 
